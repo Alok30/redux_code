@@ -1,0 +1,45 @@
+.img_css_container{
+    width: 278px;
+    height: 234px;}
+.container_body{
+    width: 80%;
+    margin-left: 128px;
+  
+}
+.Body_css{
+    width: 66%;
+    margin-left: 281px;
+    margin-top: 11px;
+}
+.navbar_css_first
+{
+     height: 178px;
+     background-color: #342AA5;
+
+   
+   
+}
+.css_footer{
+    background-color:#070A29;
+  
+}
+.logo_css{
+    width: 70px;
+    height: 61px;
+    margin-left: 174px;
+    margin-top: 32px;
+}
+ .navbar1_css{
+    background-color: #342AA5;
+    height: 172px;
+} 
+.mt-2{
+    margin-top: 30px;
+    text-align: center;
+
+}
+.mt-3{
+    margin-top: 30px;
+    text-align: center;
+    margin-left: -2px;
+}

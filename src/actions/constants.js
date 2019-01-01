@@ -1,0 +1,9 @@
+export const FETCH_SECTIONS = 1;
+export const FETCH_SECTIONS_SUCCESS = 2;
+export const FETCH_SECTIONS_FAILURE = 3;
+export const FETCH_ARTICLES = 4;
+export const FETCH_ARTICLES_SUCCESS = 5;
+export const FETCH_ARTICLES_FAILURE = 6;
+export const FETCH_ARTICLE_DETAILS = 7;
+export const FETCH_ARTICLE_DETAILS_SUCCESS = 8;
+export const FETCH_ARTICLE_DETAILS_FAILURE = 9;
